@@ -1,0 +1,26 @@
+{
+    "product_id": "147578933",
+    "product_name": "Samsung Galaxy S23",
+    "opinions_count": 500,
+    "pros_count": 248,
+    "cons_count": 79,
+    "average_stars": 4.826,
+    "stars_distr": {
+        "0.0": 0,
+        "0.5": 1,
+        "1.0": 0,
+        "1.5": 1,
+        "2.0": 2,
+        "2.5": 2,
+        "3.0": 0,
+        "3.5": 5,
+        "4.0": 30,
+        "4.5": 61,
+        "5.0": 398
+    },
+    "recommendation_distr": {
+        "Polecam": 489,
+        "Nie polecam": 6,
+        "null": 0
+    }
+}
